@@ -213,7 +213,7 @@ _N_E = (window.webpackJsonp_N_E = window.webpackJsonp_N_E || []).push([
                         children: [Object(s.jsx)("meta", {
                             charSet: "UTF-8"
                         }), Object(s.jsx)("title", {
-                            children: "Undertale Tribute"
+                            children: "GlitchMusic - Visualizer"
                         }), Object(s.jsx)("script", {
                             src: "/all.min.js"
                         })]
